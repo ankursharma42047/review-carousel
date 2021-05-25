@@ -1,0 +1,18 @@
+{
+  "name": "3_review_carousel",
+  "version": "1.0.0",
+  "description": "A simple review carousel",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ankur Sharma",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-image": "^2.0.0-beta.2",
+    "parcel": "^2.0.0-beta.2",
+    "postcss": "^8.2.13",
+    "postcss-nested": "^5.0.5",
+    "prettier": "2.2.1"
+  }
+}
